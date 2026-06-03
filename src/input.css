@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---- Base ---- */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-brand-bg text-brand-ink font-sans antialiased;
+  }
+  /* Prevent iOS zoom: keep form controls at 16px+ */
+  input,
+  select,
+  textarea {
+    font-size: 16px;
+  }
+}
+
+/* ---- Reusable components ---- */
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-content px-5 sm:px-6 lg:px-8;
+  }
+  .btn {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-lg px-5 py-3 text-base font-semibold transition-transform duration-200 will-change-transform;
+  }
+  .btn-primary {
+    @apply btn bg-brand-primary text-brand-ink hover:-translate-y-0.5 hover:bg-brand-primary-dark hover:text-brand-ink;
+  }
+  .btn-secondary {
+    @apply btn border-2 border-brand-secondary bg-transparent text-brand-secondary-dark hover:-translate-y-0.5 hover:bg-brand-secondary-light;
+  }
+  .tap {
+    @apply min-h-[44px] min-w-[44px];
+  }
+  /* Animated link underline */
+  .link-underline {
+    @apply relative inline-block;
+  }
+  .link-underline::after {
+    content: "";
+    @apply absolute left-0 -bottom-0.5 h-0.5 w-full origin-left scale-x-0 bg-brand-secondary transition-transform duration-300;
+  }
+  .link-underline:hover::after {
+    @apply scale-x-100;
+  }
+}
+
+/* ---- Scroll-reveal + animation utilities (transform/opacity only) ---- */
+@layer utilities {
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+    will-change: transform, opacity;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .hero-fade {
+    opacity: 0;
+    transform: translateY(16px);
+    animation: heroFade 0.8s ease forwards;
+  }
+  .hero-fade-1 { animation-delay: 0.05s; }
+  .hero-fade-2 { animation-delay: 0.18s; }
+  .hero-fade-3 { animation-delay: 0.32s; }
+  .hero-fade-4 { animation-delay: 0.46s; }
+  @keyframes heroFade {
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+/* ---- Respect reduced motion everywhere ---- */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  .hero-fade {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}

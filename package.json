@@ -1,0 +1,14 @@
+{
+  "name": "nyangbe-cleaning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page variations for Nyangbe Cleaning Co. (Champaign County, IL)",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --minify",
+    "dev": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "tailwindcss": "^3.4.17"
+  }
+}
