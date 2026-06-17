@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Magic Speed Cleaning Services, residential, commercial and post-construction cleaning in Champaign, Urbana, Savoy and Mahomet, Illinois">
+  <rect width="1200" height="630" fill="#0f2a43"/>
+  <rect x="14" y="14" width="1172" height="602" fill="none" stroke="#f5b400" stroke-width="6"/>
+
+  <!-- wordmark -->
+  <g transform="translate(70 66)">
+    <rect width="62" height="62" fill="#f5b400" stroke="#0f2a43" stroke-width="4"/>
+    <path fill="#0f2a43" d="M13 48V14h8l10 17 10-17h8v34h-8V29L33 44h-4L19 29v19z"/>
+    <text x="80" y="42" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1" fill="#ffffff">MAGIC SPEED CLEANING SERVICES</text>
+  </g>
+
+  <!-- yellow kicker -->
+  <g transform="translate(70 162)">
+    <rect width="548" height="42" fill="#f5b400"/>
+    <text x="20" y="29" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="2.4" fill="#0f2a43">LOCALLY OWNED IN CHAMPAIGN COUNTY</text>
+  </g>
+
+  <!-- headline -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="900" fill="#ffffff" letter-spacing="-3">
+    <text x="68" y="312" font-size="98">CLEANING,</text>
+    <text x="68" y="404" font-size="98">DONE RIGHT.</text>
+  </g>
+
+  <!-- service area bar -->
+  <g transform="translate(68 458)">
+    <rect width="712" height="54" fill="#2f90db"/>
+    <text x="22" y="35" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="900" letter-spacing="2" fill="#ffffff">CHAMPAIGN / URBANA / SAVOY / MAHOMET, IL</text>
+  </g>
+  <text x="70" y="556" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" fill="#f5b400">Residential &#183; Commercial &#183; Post-Construction Cleanup</text>
+</svg>
