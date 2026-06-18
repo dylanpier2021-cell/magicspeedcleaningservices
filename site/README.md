@@ -1,8 +1,8 @@
 # Magic Speed Cleaning Services
 
-Marketing website for Magic Speed Cleaning Services (legal name Magic Speed Cleaning
-Services LLC), a family-run residential, commercial, and post-construction cleaning
-company serving Champaign, Urbana, Savoy, and Mahomet, Illinois.
+Marketing website for Magic Speed Cleaning Services, a family-run residential,
+commercial, and post-construction cleaning company serving Champaign, Urbana,
+Savoy, and Mahomet, Illinois.
 
 Fast, fully indexable, dependency-free static HTML with one shared CSS file and a
 small deferred JavaScript file. Bold poster design direction (deep navy and yellow,
@@ -25,7 +25,7 @@ Privacy and Terms are intentionally indexable and linked in the footer so an A2P
 
 ## Business details (live)
 
-- Name: Magic Speed Cleaning Services (legal name Magic Speed Cleaning Services LLC)
+- Name: Magic Speed Cleaning Services
 - Owner: Nyangbe Barnes
 - Address: 2701 Willow Park Dr, Champaign, IL 61822
 - Phone: (217) 600-2981  (tel:+12176002981)
