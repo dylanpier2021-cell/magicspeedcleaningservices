@@ -38,7 +38,7 @@ Load `form_embed.js` only once per page even if both forms are on the same page.
 
 ## Chat widget (GHL LeadConnector)
 ```html
-<script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" data-widget-id="6a32f52ece10212d7a5ae46e" data-source="WEB_USER"></script>
+<script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" data-widget-id="6a32f5bd1beacbb27303b3b3" data-source="WEB_USER"></script>
 ```
 Only load this chat widget on pages that do NOT have a contact or quote form on them. On any page with the Main Quote Request form or Customer Feedback form embedded, leave the chat widget off so they do not compete. Add it to the other pages (Home, Services, About) only.
 
