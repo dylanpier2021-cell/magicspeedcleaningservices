@@ -1,8 +1,8 @@
-# Magic Speed Cleaning Services
+# Nyangbe Barnes
 
-Marketing website for Magic Speed Cleaning Services, a family-run residential,
-commercial, and post-construction cleaning company serving Champaign, Urbana,
-Savoy, and Mahomet, Illinois.
+Marketing website for Nyangbe Barnes, the owner-operated residential,
+commercial, and post-construction cleaning business of Nyangbe Barnes, serving
+Champaign, Urbana, Savoy, and Mahomet, Illinois.
 
 Fast, fully indexable, dependency-free static HTML with one shared CSS file and a
 small deferred JavaScript file. Bold poster design direction (deep navy and yellow,
@@ -25,7 +25,7 @@ Privacy and Terms are intentionally indexable and linked in the footer so an A2P
 
 ## Business details (live)
 
-- Name: Magic Speed Cleaning Services
+- Name: Nyangbe Barnes (sole proprietor, owner-operated)
 - Owner: Nyangbe Barnes
 - Address: 2701 Willow Park Dr, Champaign, IL 61822
 - Phone: (217) 600-2981  (tel:+12176002981)
@@ -37,9 +37,10 @@ Privacy and Terms are intentionally indexable and linked in the footer so an A2P
 
 - Main Quote Request form and Customer Feedback form are embedded on `/contact`.
   Their iframes are left verbatim; `form_embed.js` is loaded once for the page.
-- The LeadConnector chat widget loads only on pages without a form: `/`, `/services`,
-  and `/about`. It is intentionally absent from `/contact` so the forms do not compete,
-  and from `/privacy` and `/terms`.
+- The LeadConnector chat widget loads on every page without a form (the home,
+  services, service-areas, about, the three service pages, and the four location
+  pages). It is intentionally absent from `/contact` so the forms do not compete,
+  and from `/privacy`, `/terms`, and `404`.
 
 ## Deploy to Vercel
 
@@ -51,10 +52,10 @@ Privacy and Terms are intentionally indexable and linked in the footer so an A2P
 
 ## One thing to swap when the domain is live
 
-Everything uses the placeholder domain `https://www.magicspeedcleaning.com`. When the
+Everything uses the placeholder domain `https://www.nyangbebarnes.com`. When the
 real domain is connected, find and replace that single string across the project. It
 appears in canonical tags, Open Graph and Twitter URLs, JSON-LD, `sitemap.xml`,
-`robots.txt`, and the Terms SMS section ("www.magicspeedcleaning.com/privacy"). The
+`robots.txt`, and the Terms SMS section ("www.nyangbebarnes.com/privacy"). The
 in-page Privacy link in Terms is already a working relative link, so it resolves
 regardless, but update the printed URL text to match the live domain.
 

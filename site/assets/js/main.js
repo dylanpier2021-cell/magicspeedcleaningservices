@@ -1,4 +1,4 @@
-/* Magic Speed Cleaning Services - lightweight site behavior.
+/* Nyangbe Barnes - lightweight site behavior.
    No dependencies. Loaded with `defer` so it never blocks rendering. */
 (function () {
   "use strict";

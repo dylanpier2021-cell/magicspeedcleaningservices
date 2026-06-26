@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Magic Speed Cleaning Services, residential, commercial and post-construction cleaning in Champaign, Urbana, Savoy and Mahomet, Illinois">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Nyangbe Barnes, residential, commercial and post-construction cleaning in Champaign, Urbana, Savoy and Mahomet, Illinois">
   <rect width="1200" height="630" fill="#0f2a43"/>
   <rect x="14" y="14" width="1172" height="602" fill="none" stroke="#f5b400" stroke-width="6"/>
 
   <!-- wordmark -->
   <g transform="translate(70 66)">
     <rect width="62" height="62" fill="#f5b400" stroke="#0f2a43" stroke-width="4"/>
-    <path fill="#0f2a43" d="M13 48V14h8l10 17 10-17h8v34h-8V29L33 44h-4L19 29v19z"/>
-    <text x="80" y="42" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1" fill="#ffffff">MAGIC SPEED CLEANING SERVICES</text>
+    <path fill="#0f2a43" d="M13 14h8l20 26V14h8v34h-8l-20-26V48h-8z"/>
+    <text x="80" y="42" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1" fill="#ffffff">NYANGBE BARNES</text>
   </g>
 
   <!-- yellow kicker -->

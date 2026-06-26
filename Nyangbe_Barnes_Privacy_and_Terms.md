@@ -2,7 +2,7 @@
 
 Last updated June 17, 2026
 
-This Privacy Policy explains how Magic Speed Cleaning Services ("we," "us," or "our") collects, uses and protects information when you contact us, request a quote, or use our website. We respect your privacy and are committed to handling your information responsibly.
+This Privacy Policy explains how Nyangbe Barnes ("we," "us," or "our") collects, uses and protects information when you contact us, request a quote, or use our website. We respect your privacy and are committed to handling your information responsibly.
 
 ## Information We Collect
 
@@ -23,7 +23,7 @@ We may collect the following information when you choose to share it with us:
 
 If you provide your mobile number and opt in, we may send you service related text messages, such as quote follow-ups, confirmations and reminders. Your consent to receive text messages is not a condition of any purchase.
 
-- Opt in: You agree to receive text messages from Magic Speed Cleaning Services only after you give express consent, for example by checking a box or sending us your number for this purpose.
+- Opt in: You agree to receive text messages from Nyangbe Barnes only after you give express consent, for example by checking a box or sending us your number for this purpose.
 - Message frequency: Message frequency varies based on your requests and scheduled services.
 - Opt out: You can opt out at any time by replying STOP to any message. After you reply STOP, we will send one confirmation message and will not send further texts unless you opt in again.
 - Help: Reply HELP for assistance, or contact us at (217) 600-2981.
@@ -58,7 +58,7 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have questions about this Privacy Policy, please reach out:
 
-- Magic Speed Cleaning Services
+- Nyangbe Barnes
 - 2701 Willow Park Dr, Champaign, IL 61822
 - Phone: (217) 600-2981
 - Email: magicspeedcleaningservice@gmail.com
@@ -69,11 +69,11 @@ If you have questions about this Privacy Policy, please reach out:
 
 Last updated June 17, 2026
 
-Welcome to Magic Speed Cleaning Services. By using our website or booking our services, you agree to these Terms of Service. Please read them carefully. If you do not agree, please do not use the site.
+Welcome to Nyangbe Barnes. By using our website or booking our services, you agree to these Terms of Service. Please read them carefully. If you do not agree, please do not use the site.
 
 ## Our Services
 
-Magic Speed Cleaning Services provides residential cleaning, commercial cleaning and post-construction cleanup, serving Champaign, Urbana, Savoy and Mahomet, Illinois. We are insured through Pekin Insurance. Service availability and offerings may change over time.
+Nyangbe Barnes provides residential cleaning, commercial cleaning and post-construction cleanup, serving Champaign, Urbana, Savoy and Mahomet, Illinois. We are insured through Pekin Insurance. Service availability and offerings may change over time.
 
 ## Quotes and Scheduling
 
@@ -87,7 +87,7 @@ Every job is custom. We provide a free quote and confirm pricing with you before
 
 ## SMS Text Messaging Program
 
-If you opt in, Magic Speed Cleaning Services may send service related text messages such as quote follow-ups, confirmations and reminders. By providing your mobile number and opting in, you agree to the following terms.
+If you opt in, Nyangbe Barnes may send service related text messages such as quote follow-ups, confirmations and reminders. By providing your mobile number and opting in, you agree to the following terms.
 
 - Consent: You consent to receive text messages only after providing express opt in. Consent is not a condition of purchasing any service.
 - Message frequency: Frequency varies based on your requests and scheduled services.
@@ -102,7 +102,7 @@ We do not sell, rent or share your information for lead generation, and we do no
 
 ## Website Use and Intellectual Property
 
-The content on this website, including text, graphics and the Magic Speed Cleaning Services name and branding, is owned by us or our licensors and is provided for your personal, non-commercial use. Please do not copy or reuse our content without permission.
+The content on this website, including text, graphics and the Nyangbe Barnes name and branding, is owned by us or our licensors and is provided for your personal, non-commercial use. Please do not copy or reuse our content without permission.
 
 ## Disclaimers
 
@@ -110,7 +110,7 @@ We strive to provide excellent service and accurate information, but our website
 
 ## Limitation of Liability
 
-To the fullest extent permitted by law, Magic Speed Cleaning Services is not liable for any indirect or incidental damages arising from your use of the website. Nothing in these terms limits liability that cannot be limited under applicable law.
+To the fullest extent permitted by law, Nyangbe Barnes is not liable for any indirect or incidental damages arising from your use of the website. Nothing in these terms limits liability that cannot be limited under applicable law.
 
 ## Governing Law
 
@@ -122,7 +122,7 @@ We may update these Terms from time to time. Updates take effect when posted, an
 
 ## Contact Us
 
-- Magic Speed Cleaning Services
+- Nyangbe Barnes
 - 2701 Willow Park Dr, Champaign, IL 61822
 - Phone: (217) 600-2981
 - Email: magicspeedcleaningservice@gmail.com
